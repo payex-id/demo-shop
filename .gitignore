@@ -1,0 +1,22 @@
+# Dependencies
+/node_modules
+
+# Build
+/build
+/.svelte-kit
+/package
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode
+.idea
+
+# OS
+.DS_Store
+Thumbs.db
+
+.history
