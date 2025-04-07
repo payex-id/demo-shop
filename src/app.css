@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Добавляем базовые стили для body */
+@layer base {
+	body {
+		@apply bg-gray-50;
+	}
+} 
