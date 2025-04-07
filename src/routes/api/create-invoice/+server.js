@@ -16,8 +16,8 @@ export async function POST({ request }) {
 				currency: 'USDT',
 				order_id: `order-${Date.now()}`,
 				callback_url: `${origin}/api/payment-callback`,
-				success_url: `${origin}/payment/success`,
-				error_url: `${origin}/payment/error`
+				success_url: `${origin}/payment/status`,
+				cancel_url: `${origin}/payment/error?error=canceled-by-user`
 			})
 		});
 		
