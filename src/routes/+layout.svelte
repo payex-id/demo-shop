@@ -15,7 +15,7 @@
 				rel="noopener noreferrer"
 				class="text-gray-600 hover:text-gray-900 transition-colors"
 			>
-				Sources on GitHub
+				Download sources
 			</a>
 			<a 
 				href="https://app.payex.id/merchant-docs"
