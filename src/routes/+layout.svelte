@@ -10,7 +10,7 @@
 	<footer class="fixed bottom-0 left-0 right-0 bg-gray-100 py-4">
 		<div class="container mx-auto px-4 flex justify-center space-x-6">
 			<a 
-				href="/demo.zip"
+				href="/demo-shop-main.zip"
 				target="_blank" 
 				rel="noopener noreferrer"
 				class="text-gray-600 hover:text-gray-900 transition-colors"
